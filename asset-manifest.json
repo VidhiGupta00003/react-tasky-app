@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tasky-app/static/css/main.266b5dae.css",
+    "main.js": "/react-tasky-app/static/js/main.c9c2212c.js",
+    "static/js/787.54626f4b.chunk.js": "/react-tasky-app/static/js/787.54626f4b.chunk.js",
+    "index.html": "/react-tasky-app/index.html",
+    "main.266b5dae.css.map": "/react-tasky-app/static/css/main.266b5dae.css.map",
+    "main.c9c2212c.js.map": "/react-tasky-app/static/js/main.c9c2212c.js.map",
+    "787.54626f4b.chunk.js.map": "/react-tasky-app/static/js/787.54626f4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.266b5dae.css",
+    "static/js/main.c9c2212c.js"
+  ]
+}
